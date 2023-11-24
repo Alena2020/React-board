@@ -1,3 +1,21 @@
+# React-board
+
+## A project based on YouTube video tutorials from a [Ulbi TV](https://www.youtube.com/watch?v=RPtDuVba1XQ&list=PLNvKCElPFemB_PRHnbAKlBGRBnwjRi25F&index=31).
+
+## Technologies:
+
+#### - HTML
+
+#### - CSS
+
+#### - JavaScript
+
+#### - React
+
+## Demo: https://alena2020.github.io/React-board/
+
+##📋
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
